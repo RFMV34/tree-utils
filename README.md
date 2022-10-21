@@ -1,4 +1,4 @@
-# M3U Parser Generator
+# Tree utils
 Tree utils library. 
 
 # Instalation
